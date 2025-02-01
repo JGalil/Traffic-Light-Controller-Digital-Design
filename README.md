@@ -56,7 +56,7 @@ vsim -c -do "run -all" traffic_light_controller1
 
 ---
 
-## 📌 Issues Encountered  
+##  Issues Encountered  
 ### **Part 1**  
 - **Infinite loop issue** due to incorrect state logic.  
 - Fixed by **simplifying the state transitions** and removing unnecessary complexity.  
@@ -67,6 +67,6 @@ vsim -c -do "run -all" traffic_light_controller1
 
 ---
 
-## 👨‍💻 Contributors  
+##  Contributors  
 - **Joachim Galil**  
 - **Sean King**   
